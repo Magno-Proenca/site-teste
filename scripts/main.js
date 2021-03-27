@@ -1,2 +1,2 @@
-const meuCabecalho = document.querySelector('h1'); // este codigo nao esta funcionando
-meuCabecalho.textContent = 'Hello world!'; //este codigo nao esta funcionando
+const meuCabecalho = document.querySelector('h1'); 
+meuCabecalho.textContent = 'Hello world!'; 
